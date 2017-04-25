@@ -20,3 +20,6 @@
   <p><a href=https://codepen.io/Sokhann/pen/xdRGZy>
     Корзина
   </a></p>
+<p><a href=https://jsfiddle.net/Sokhann/48ymc3yg>
+    Тестирование программы, решающей системы уравнений методом Крамера, с помощью Fetch
+  </a></p>
