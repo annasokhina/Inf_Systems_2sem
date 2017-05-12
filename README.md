@@ -3,7 +3,7 @@
   <p><a href="https://docs.google.com/presentation/d/1ulniFstl8WRh6xAGF3h5JlTuxlqbaMIBJIbJ6ZZEEZo/edit?usp=sharing">
      Установка Wordpress с помощью Dоcker
   </a></p>
-    <p>Скорм-пакет:<a href="#">в Moodle</a> | <a href="#">Исходник</a></p>
+    <p>Скорм-пакет:  <a href="#">в Moodle</a> | <a href="#">Исходник</a></p>
 
 <p>JS:</p>
   <p><a href="https://docs.google.com/presentation/d/18yQVv_krqOUZpJhDBYhVwBTLTkWHbGyJMfqoPyi69Ng/edit?usp=sharing">
