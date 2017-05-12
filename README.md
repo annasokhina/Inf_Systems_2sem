@@ -17,7 +17,7 @@
   <p><a href="https://codepen.io/Sokhann/pen/VpVNab">
     Формула Крамера
   </a></p>
-  <p><a href=https://jsfiddle.net/Sokhann/aonjz5ga/>
+  <p><a href=https://jsfiddle.net/Sokhann/ckaqkLp7/>
     Корзина
   </a></p>
 <p><a href=https://jsfiddle.net/Sokhann/48ymc3yg>
